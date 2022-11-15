@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Ventix192
+- 👀 I’m interested in coding
