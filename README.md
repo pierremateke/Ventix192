@@ -1,6 +1,6 @@
 # 👋 About Me
 
-I'm a **self-taught passionate backend developer** from Germany.
+I'm a **self-taught backend developer** from Germany.
 
 - 💻 Founder of **Ceru Service**
 - 👨‍💻 Working as a **freelancer**
