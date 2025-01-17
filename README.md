@@ -9,11 +9,6 @@ I'm a **self-taught passionate backend developer** from Germany.
 
 ---
 
-## 🌍 Socials:
-[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/ceru-service/)
-
----
-
 ## 🛠️ Tech Stack:
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -23,7 +18,11 @@ I'm a **self-taught passionate backend developer** from Germany.
 
 ---
 
+## 🌍 Socials:
+[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/ceru-service/)
+
+---
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ventix&show_icons=true&theme=radical)
 
-### Most Used Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ventix&layout=compact&theme=radical)
