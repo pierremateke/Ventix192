@@ -24,3 +24,6 @@ I'm a **self-taught passionate backend developer** from Germany.
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ventix&show_icons=true&theme=radical)
+
+### Most Used Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ventix&layout=compact&theme=radical)
