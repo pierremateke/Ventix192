@@ -3,8 +3,7 @@
 I'm a **self-taught backend developer** from Germany.
 
 - 💻 Founder of **Ceru Service**
-- 👨‍💻 Working as a **freelancer**
-- 🔧 I use daily: `.js`,
+- 🔧 I use daily: `.lua .html .css .json .py .js`,
 - 🌐 Ask me about **Backend Development**
 
 ---
