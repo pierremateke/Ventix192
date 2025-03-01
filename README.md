@@ -2,7 +2,7 @@
 
 I'm a **self-taught backend developer** from Germany.
 
-- 💻 Founder of **Ceru Service & Wesh Service**
+- 💻 Founder of **Ceru Service**
 - 🔧 I use daily: `.lua .json .py .js`
 - 🌐 Ask me about **Backend Development**
 
