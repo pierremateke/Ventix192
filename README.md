@@ -19,7 +19,3 @@ I'm a **self-taught backend developer** from Germany.
 
 ## 🌍 Socials:
 [![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/ceru-service/)
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ventix&show_icons=true&theme=radical)
