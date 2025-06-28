@@ -22,14 +22,14 @@ Welcome to my GitHub profile! I'm into building modern web apps, exploring new t
 ## GitHub Stats
 <a href="https://github.com/jstrieb/github-stats">
   <picture>
-    <source srcset="https://github.com/pierre-mateke/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github.com/pierre-mateke/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" media="(prefers-color-scheme: light)" />
-    <img src="https://github.com/pierre-mateke/github-stats/blob/master/generated/overview.svg" alt="GitHub Stats Overview" />
+    <source srcset="https://github.com/pierremateke/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github.com/pierremateke/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" media="(prefers-color-scheme: light)" />
+    <img src="https://github.com/pierremateke/github-stats/blob/master/generated/overview.svg" alt="GitHub Stats Overview" />
   </picture>
   <picture>
-    <source srcset="https://github.com/pierre-mateke/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github.com/pierre-mateke/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" media="(prefers-color-scheme: light)" />
-    <img src="https://github.com/pierre-mateke/github-stats/blob/master/generated/languages.svg" alt="GitHub Stats Languages" />
+    <source srcset="https://github.com/pierremateke/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github.com/pierremateke/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" media="(prefers-color-scheme: light)" />
+    <img src="https://github.com/pierremateke/github-stats/blob/master/generated/languages.svg" alt="GitHub Stats Languages" />
   </picture>
 </a>
 
