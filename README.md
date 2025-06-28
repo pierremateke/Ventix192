@@ -20,8 +20,16 @@ Welcome to my GitHub! I'm a developer who loves modern web apps, new tech, and s
 
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pierre-mateke&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pierre-mateke&layout=compact)
+<picture>
+  <source srcset="https://raw.githubusercontent.com/pierremateke/github-stats/master/generated/overview.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://raw.githubusercontent.com/pierremateke/github-stats/master/generated/overview.svg#gh-light-mode-only" media="(prefers-color-scheme: light)" />
+  <img src="https://raw.githubusercontent.com/pierremateke/github-stats/master/generated/overview.svg" alt="GitHub Stats Overview" />
+</picture>
+<picture>
+  <source srcset="https://raw.githubusercontent.com/pierremateke/github-stats/master/generated/languages.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://raw.githubusercontent.com/pierremateke/github-stats/master/generated/languages.svg#gh-light-mode-only" media="(prefers-color-scheme: light)" />
+  <img src="https://raw.githubusercontent.com/pierremateke/github-stats/master/generated/languages.svg" alt="GitHub Stats Languages" />
+</picture>
 
 ## Connect with Me
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/934085062683684874)
