@@ -1,8 +1,8 @@
 <img align="left" width="250" height="auto" src="https://your-profile-picture-url-here">
 
-### Hey I'm Pierre!
+### Hi, I'm Pierre 👋
 
-Welcome to my GitHub profile! I'm into building modern web apps, exploring new tech, and solving interesting problems with code. Always excited to learn and collaborate on fun projects—let’s make something awesome together.
+Welcome to my GitHub! I'm a developer who loves modern web apps, new tech, and solving interesting problems. Always keen to learn and build cool things together.
 
 [![](https://komarev.com/ghpvc/?username=pierre-mateke&color=007bff&label=Profile+Views&style=for-the-badge)]() 
 
@@ -20,21 +20,8 @@ Welcome to my GitHub profile! I'm into building modern web apps, exploring new t
 
 
 ## GitHub Stats
-<a href="https://github.com/jstrieb/github-stats">
-  <picture>
-    <source srcset="https://github.com/pierremateke/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github.com/pierremateke/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" media="(prefers-color-scheme: light)" />
-    <img src="https://github.com/pierremateke/github-stats/blob/master/generated/overview.svg" alt="GitHub Stats Overview" />
-  </picture>
-  <picture>
-    <source srcset="https://github.com/pierremateke/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github.com/pierremateke/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" media="(prefers-color-scheme: light)" />
-    <img src="https://github.com/pierremateke/github-stats/blob/master/generated/languages.svg" alt="GitHub Stats Languages" />
-  </picture>
-</a>
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pierre-mateke&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pierre-mateke&layout=compact)
 
 ## Connect with Me
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/934085062683684874)
-
----
