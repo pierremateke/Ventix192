@@ -35,8 +35,6 @@ Welcome to my GitHub profile! I'm into building modern web apps, exploring new t
 
 
 ## Connect with Me
-[![Website](https://custom-icon-badges.herokuapp.com/badge/-pierre.mateke-6088d2?style=for-the-badge&logoColor=white&logo=website)](https://yourwebsite.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your-discord-id)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yourhandle)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/934085062683684874)
 
 ---
